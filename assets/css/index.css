@@ -1,0 +1,89 @@
+
+.custom-list li {
+    font-size: 1.25rem; 
+    color: #008374;
+    list-style: none;
+    font-weight: bold;
+}
+
+
+#welcome-text{
+    text-shadow: 2px 2px 5px gray;
+}
+
+/* Center the button section */
+#button-section {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 20vh; 
+}
+
+/* Style the pointer icon */
+#pointer-icon {
+    display: block; 
+    font-size: 2rem; 
+    color: white; 
+    transform: rotate(180deg);
+    margin: 5px 0; 
+}
+
+/* Style the button */
+#get-started-btn {
+    background-color: white; 
+    color: #008374; 
+    border: 2px solid #008374; 
+    padding: 12px 24px; 
+    font-size: 1.2rem; 
+    font-weight: bold;
+    border-radius: 25px; 
+    cursor: pointer; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+    transition: all 0.3s ease-in-out; 
+}
+
+/* Hover effect */
+#get-started-btn:hover {
+    background-color: #008374;
+    color: white;
+    transform: scale(1.05);
+}
+
+/* Style the button */
+#get-started-btn {
+    background-color: white; 
+    color: #008374; 
+    border: 2px solid #008374; 
+    padding: 12px 24px; 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    border-radius: 50px; 
+    cursor: pointer;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+    transition: all 0.3s ease-in-out; 
+}
+
+#navmenu{
+    background-color: srgb 0 0.462353 0.409412;}
+
+/* Hover effect */
+#get-started-btn:hover {
+    background-color: #008374; 
+    color: white; 
+    transform: scale(1.05); 
+}
+
+.custom-list {
+    list-style: none; 
+    padding: 0;
+    text-align: left; 
+    display: inline-block; 
+  }
+  
+  .custom-list li {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+  }
+
+  
