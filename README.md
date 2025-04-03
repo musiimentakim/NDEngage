@@ -1,9 +1,9 @@
 # INtroduction
-NDEngage empowers neurodivergent individuals with AI-driven tools for learning, career support, and mental wellness. Our services include secure data collection, AI communication assistants, and data-driven insights. Join us in creating a more inclusive future!
+MyInvisibleDiversity empowers neurodivergent individuals with AI-driven tools for learning, career support, and mental wellness. Our services include secure data collection, AI communication assistants, and data-driven insights. Join us in creating a more inclusive future!
 
-# NDEngage Platform
+# MyInvisibleDiversity Platform
 
-NDEngage is a comprehensive platform designed to support neurodivergent individuals in professional and educational spaces. Built with HTML, CSS, JavaScript, and PHP, our platform provides personalized learning tools, AI-powered communication assistance, career support, and mental wellness resources.
+MyInvisibleDiversity is a comprehensive platform designed to support neurodivergent individuals in professional and educational spaces. Built with HTML, CSS, JavaScript, and PHP, our platform provides personalized learning tools, AI-powered communication assistance, career support, and mental wellness resources.
 
 ## Features
 
